@@ -1,0 +1,9 @@
+code: banking-bundle
+description: Standard Demo bundle, exported February 2021 and then modified to work with 6.3
+components:
+  widgets:
+    - widgets/seeds_card-descriptor.yaml
+    - widgets/seeds_card_ng-descriptor.yaml
+    - widgets/seedscard-transaction-table-descriptor.yaml
+  plugins:
+    - plugins/standard-demo-banking-descriptor.yaml
